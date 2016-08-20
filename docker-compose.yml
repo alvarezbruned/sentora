@@ -1,5 +1,5 @@
 sentora:
-  image: albertalvarezbruned/sentora
+  image: alvarezbruned/sentora
   environment:
     PANEL_FQDN: hostname
     PUBLIC_IP: ipserver
