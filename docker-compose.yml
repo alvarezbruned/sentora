@@ -1,0 +1,5 @@
+sentora:
+  image: albertalvarezbruned/sentora
+  environment:
+    PANEL_FQDN: vps199039.ovh.net
+    PUBLIC_IP: 149.202.46.23
